@@ -9,6 +9,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "loguru", # Adicionando o Loguru como dependência
+    "pandas (>=2.2.3,<3.0.0)",
 ]
 
 
